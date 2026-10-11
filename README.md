@@ -1,6 +1,6 @@
 # Hi, I'm Bharathi
 
-I'm an MS Computer Science and Software Engineering student at the University of Washington Bothell. I'm doing my thesis research on high-performance GPU systems at the [Distributed Systems Laboratory](https://depts.washington.edu/dslab/) at UW Bothell.
+I'm an MS Computer Science and Software Engineering student at the University of Washington. I'm doing my thesis research on high-performance GPU systems at the [Distributed Systems Laboratory](https://depts.washington.edu/dslab/) at UW.
 
 I like building from first principles, especially when there's no playbook.
 
@@ -131,7 +131,7 @@ Built an **emergency financial aid disbursement application** for **17,000+ SAP 
 
 ## Education
 
-**M.S. Computer Science and Software Engineering** | [University of Washington, Bothell](https://www.washington.edu/) | Sep 2025 – Jun 2027
+**M.S. Computer Science and Software Engineering** | [University of Washington](https://www.washington.edu/) | Sep 2025 – Jun 2027
 
 GPA 4.00 / 4.00. Coursework: High-Performance Computing, Distributed Systems, Deep Learning, Machine Learning
 
